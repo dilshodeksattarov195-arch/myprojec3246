@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterspdate",
+        "uuid": 12854160,
+        "checksum": "9bh23p"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
